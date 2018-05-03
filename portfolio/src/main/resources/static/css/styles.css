@@ -1,0 +1,23 @@
+.wrapper{
+	width: 970px;
+	margin: 20px;
+	padding: 20px;
+	display: inline-block;
+	vertical-align: top;
+	background-color:lightgray;
+	text-align: center;
+}
+.parts1{
+	font-size: 12px;
+	width:450px;
+	margin: 10px;
+	text-align: center;
+	display: inline-block;
+}
+.parts{
+	font-size: 12px;
+	width:300px;
+	margin: 10px;
+	text-align: center;
+	display: inline-block;
+}
